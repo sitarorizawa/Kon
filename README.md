@@ -1,0 +1,2 @@
+# Kon
+My firts project
